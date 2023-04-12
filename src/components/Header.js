@@ -9,7 +9,7 @@ function Header({ title, cart }) {
 
   return (
     <header className="header-component">
-      <Link to="/">
+      <Link to="/code-cafe">
         <img src={CoffeeLogo} alt="Coffee logo" />
         <h1>{title}</h1>
       </Link>
