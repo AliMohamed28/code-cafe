@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/code-cafe/static/css/main.ee579e5e.css",
-    "main.js": "/code-cafe/static/js/main.625773fc.js",
+    "main.js": "/code-cafe/static/js/main.e902f21a.js",
     "static/js/787.01f26300.chunk.js": "/code-cafe/static/js/787.01f26300.chunk.js",
     "static/media/cupcake.svg": "/code-cafe/static/media/cupcake.85447dcd07a58b2caeaab57ccb10c6d8.svg",
     "static/media/croissant.svg": "/code-cafe/static/media/croissant.1093b6914a1e20af0900f1b2369f89f8.svg",
@@ -17,11 +17,11 @@
     "static/media/iced-coffee.svg": "/code-cafe/static/media/iced-coffee.967438269f9674dfd6783f0f7ec8a7e5.svg",
     "index.html": "/code-cafe/index.html",
     "main.ee579e5e.css.map": "/code-cafe/static/css/main.ee579e5e.css.map",
-    "main.625773fc.js.map": "/code-cafe/static/js/main.625773fc.js.map",
+    "main.e902f21a.js.map": "/code-cafe/static/js/main.e902f21a.js.map",
     "787.01f26300.chunk.js.map": "/code-cafe/static/js/787.01f26300.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee579e5e.css",
-    "static/js/main.625773fc.js"
+    "static/js/main.e902f21a.js"
   ]
 }
