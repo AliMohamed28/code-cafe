@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/code-cafe/static/css/main.ee579e5e.css",
+    "main.js": "/code-cafe/static/js/main.625773fc.js",
+    "static/js/787.01f26300.chunk.js": "/code-cafe/static/js/787.01f26300.chunk.js",
+    "static/media/cupcake.svg": "/code-cafe/static/media/cupcake.85447dcd07a58b2caeaab57ccb10c6d8.svg",
+    "static/media/croissant.svg": "/code-cafe/static/media/croissant.1093b6914a1e20af0900f1b2369f89f8.svg",
+    "static/media/sandwich.svg": "/code-cafe/static/media/sandwich.a477fdb41d376818d944809d23ae8bd5.svg",
+    "static/media/french-press.svg": "/code-cafe/static/media/french-press.82514d9192e3f2b666c9926fd19e0a5b.svg",
+    "static/media/cookie.svg": "/code-cafe/static/media/cookie.f61fcc7e217a290ac31620955800394a.svg",
+    "static/media/latte.svg": "/code-cafe/static/media/latte.14659ea7c8a79a89bb5de85b2ad5ab8a.svg",
+    "static/media/tea.svg": "/code-cafe/static/media/tea.de7fb1ecbe8fd4c665dda808e79d50da.svg",
+    "static/media/logo.svg": "/code-cafe/static/media/logo.e38a3c70be4123b31828f05a3748aca0.svg",
+    "static/media/coffee.svg": "/code-cafe/static/media/coffee.753a54051f23c153d750aab165a68bcf.svg",
+    "static/media/cart.svg": "/code-cafe/static/media/cart.30a6b60586d2e327e4417d38cec0bf35.svg",
+    "static/media/milk.svg": "/code-cafe/static/media/milk.3878719ab6fd62b9c1a2208900380cae.svg",
+    "static/media/iced-coffee.svg": "/code-cafe/static/media/iced-coffee.967438269f9674dfd6783f0f7ec8a7e5.svg",
+    "index.html": "/code-cafe/index.html",
+    "main.ee579e5e.css.map": "/code-cafe/static/css/main.ee579e5e.css.map",
+    "main.625773fc.js.map": "/code-cafe/static/js/main.625773fc.js.map",
+    "787.01f26300.chunk.js.map": "/code-cafe/static/js/787.01f26300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee579e5e.css",
+    "static/js/main.625773fc.js"
+  ]
+}
