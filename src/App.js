@@ -33,7 +33,7 @@ function App() {
         ? <div>Loading...</div>
         : (
           <Routes>
-            <Route path="/" element={<Home items={items} />} />
+            <Route path="/code-cafe" element={<Home items={items} />} />
             <Route path="/cart" element={<Cart cart={cart} items={items} dispatch={dispatch} />} />
             <Route path="/details" element={<Details items={items} />}>
               <Route path=":id" element={<DetailItem items={items} addToCart={addToCart} />} />
